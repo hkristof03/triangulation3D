@@ -1,0 +1,33 @@
+﻿  triangulation3D.cpp
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(87,79): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(87,53): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(88,79): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(88,53): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(110,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(110,27): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(111,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(111,27): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(112,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(112,27): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(113,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(113,27): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(137,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\triangulation3D\triangulation3D.cpp(138,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  triangulation3D.vcxproj -> D:\MSc\Classes\first_semester\3DComputerVision\Assignments\triangulation3D\triangulation3D\x64\Debug\triangulation3D.exe
